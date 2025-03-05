@@ -15,5 +15,4 @@ Este es un proyecto de gestión de almacenes para el Grupo Selecta, desarrollado
 3. Instala las dependencias del servidor Node.js.
 4. Inicia el servidor web y el servidor WebSocket.
 
-## Contribuciones
 
